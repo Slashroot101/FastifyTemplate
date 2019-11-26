@@ -1,0 +1,22 @@
+{
+  "name": "fastifytemplate",
+  "version": "1.0.0",
+  "description": "a template for fastify projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Slashroot101/FastifyTemplate.git"
+  },
+  "keywords": [
+    "fastify"
+  ],
+  "author": "slashroot101",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Slashroot101/FastifyTemplate/issues"
+  },
+  "homepage": "https://github.com/Slashroot101/FastifyTemplate#readme"
+}
