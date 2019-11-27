@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/Slashroot101/FastifyTemplate/issues"
   },
-  "homepage": "https://github.com/Slashroot101/FastifyTemplate#readme"
+  "homepage": "https://github.com/Slashroot101/FastifyTemplate#readme",
+  "dependencies": {
+    "fastify": "^2.10.0",
+    "fastify-swagger": "^2.4.0"
+  }
 }
